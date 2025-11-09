@@ -33,10 +33,11 @@
 ## Input:
 
 ### Output:
+<img width="1003" height="541" alt="image" src="https://github.com/user-attachments/assets/3cf21db7-efc5-4849-be75-abaf84006f1f" />
 
 
-### Name:
-### Register Number:
+### Name:Srinath YG
+### Register Number:212224230274
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
