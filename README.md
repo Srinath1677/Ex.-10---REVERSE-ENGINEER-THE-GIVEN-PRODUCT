@@ -31,9 +31,10 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+<img width="914" height="832" alt="519520760-65b809a4-5be9-48ee-ab93-4323043a83a0" src="https://github.com/user-attachments/assets/1dd1c65f-fb7e-4147-8fc8-0822770313fa" />
 
 ### Output:
-<img width="1003" height="541" alt="image" src="https://github.com/user-attachments/assets/3cf21db7-efc5-4849-be75-abaf84006f1f" />
+<img width="1029" height="726" alt="519520809-d99facd6-9758-4e2a-9bce-152da2f20262" src="https://github.com/user-attachments/assets/5c5ea6bb-89f9-471a-8122-dde24a2b15d8" />
 
 
 ### Name:Srinath YG
